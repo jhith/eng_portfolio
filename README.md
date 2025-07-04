@@ -7,6 +7,7 @@ Welcome! This portfolio contains selected technical projects and certifications 
 
 - [CMOS Inverter Design](link)
 - FPGA with VHDL(Link)
+- Programming (C/C++)
 - [Biomedical DAQ Interface (LabVIEW)](link)
 
 ## Certificates
