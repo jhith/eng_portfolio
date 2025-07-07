@@ -1,9 +1,8 @@
 # eng_portfolio
-Collection of technical projects, blog posts and certificates completed
 
-Welcome! This portfolio contains selected technical projects and certifications completed during graduate studies. 
+Welcome! This branch contains selected my EEG project for machine learning during graduate studies. 
 
-## Projects
+## Other Projects
 
 - Wrist pulse for diabetes diagnosis (MATLAB)
 - BCI peoject - Machine Learning (Python)
