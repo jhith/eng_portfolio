@@ -2,6 +2,7 @@
 layout: post
 title: "My Experience in Brain-Computer Interface (BCI) Projects"
 date: 2025-07-07
+project files: https://github.com/jhith/eng_portfolio/tree/BCI-project
 categories: [BCI, EEG, MachineLearning]
 tags: [BCI, EEG, Brainstorm, PCA, ICA, Python, Biomedical]
 author: J E
