@@ -5,9 +5,12 @@ Welcome! This portfolio contains selected technical projects and certifications 
 
 ## Projects
 
+- Wrist pulse for diabetes diagnosis (MATLAB)
+- BCI peoject - Machine Learning (Python)
 - [CMOS Inverter Design](link)
 - FPGA with VHDL(Link)
 - [Biomedical DAQ Interface (LabVIEW)](link)
+- C programming
 
 ## Certificates
 
