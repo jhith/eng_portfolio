@@ -1,7 +1,6 @@
 # eng_portfolio
-Collection of technical projects, blog posts and certificates completed
-
-Welcome! This portfolio contains selected technical projects and certifications completed during graduate studies. 
+Welcome! This portfolio contains selected technical projects and certifications I completed during my graduate studies. 
+This branch contains some of my C programs completed including sorting, array and list manipulation. 
 
 ## Projects
 
