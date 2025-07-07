@@ -10,7 +10,7 @@ Welcome! This portfolio contains selected technical projects and certifications 
 - [CMOS Inverter Design](link)
 - FPGA with VHDL(Link)
 - [Biomedical DAQ Interface (LabVIEW)](link)
-- C programming(http://github.com/jhith/eng_portfolio/edit/C-programming/)
+- C programming(http://github.com/jhith/eng_portfolio/edit/C-programming)
 
 ## Certificates
 
