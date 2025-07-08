@@ -5,8 +5,8 @@ Welcome! This portfolio contains selected technical projects and certifications 
 
 ## Projects
 
-- Wrist pulse for diabetes diagnosis (MATLAB)
-- BCI peoject - Machine Learning (Python)
+- Wrist pulse for diabetes diagnosis (https://github.com/jhith/eng_portfolio/tree/Wrist-pulse-for-diabetes-diagnosis)
+- BCI peoject - Machine Learning (https://github.com/jhith/eng_portfolio/tree/BCI-project)
 - [CMOS Inverter Design](link)
 - FPGA with VHDL(Link)
 - [Biomedical DAQ Interface (LabVIEW)](link)
