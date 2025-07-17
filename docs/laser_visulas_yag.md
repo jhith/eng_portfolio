@@ -10,6 +10,16 @@ The VISULAS YAG III is an ophthalmic laser system used to make non-contact incis
   - YAG: Posterior Iridotomy, Posterior Capsulotomy
   - Green Laser: Diabetic retinopathy, retinal tears, retinal vein occlusion
 
+## Technical Notes:
+
+- **Optical breakdown threshold**: ~2.5 mJ in air
+- **Pulse timing**: ~4 ns
+- **Components Serviced**:
+  - Aiming beam module
+  - Power measuring circuit
+  - Slit lamp alignment
+- **Safety Systems**: Ensured beam path alignment, tested optical elements, and verified energy attenuation controls.
+
 ## Working Principle
 The system uses a four-level laser configuration:
 - **Pump Source**: Flash tube or laser diodes
@@ -24,3 +34,9 @@ The system uses a four-level laser configuration:
 ## Site Visit – Kalubowila Hospital
 - Observed live operation of VISULAS YAG III
 - Examined display interface, laser path alignment, calibration procedures
+
+# Nd:YAG Laser System – Biomedical Service Insights
+
+During my internship at DIMO Healthcare Pvt Ltd, I gained direct experience servicing Nd:YAG laser systems, particularly the **VISULAS YAG III** used in ophthalmic procedures.
+
+> This hands-on work deepened my understanding of laser physics, energy delivery in clinical settings, and precision calibration under safety constraints.
