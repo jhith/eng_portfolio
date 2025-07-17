@@ -16,10 +16,10 @@ The published papers are also linked below.
   
 
 
-## Projects
+## Other Projects
 
 - Wrist pulse for diabetes diagnosis (MATLAB)
-- BCI peoject - Machine Learning (Python)
+- BCI project - Machine Learning (Python)
 - [CMOS Inverter Design](link)
 - FPGA with VHDL(Link)
 - [Biomedical DAQ Interface (LabVIEW)](link)
