@@ -1,21 +1,30 @@
-# eng_portfolio
-Collection of technical projects, blog posts and certificates completed
+# Biomedical Internship at DIMO Healthcare Pvt Ltd – 2024
 
-Welcome! This portfolio contains selected technical projects and certifications completed during graduate studies. 
+This repository documents my internship experience at **DIMO Healthcare Pvt Ltd**, where I worked as a Biomedical Service Engineering intern. The internship provided hands-on exposure to high-end medical devices from **Carl Zeiss**, **Siemens Healthineers**, and **Varian** across major hospitals in Sri Lanka.
 
-## Projects
+## 📌 Key Responsibilities
+- Shadowed professionals in diagnostics and service workflows.
+- Performed troubleshooting and maintenance of equipment like YAG lasers, LINACs, Cath Labs, and Visual Field Analyzers.
+- Carried out routine servicing, calibration, and software diagnostics.
+- Prepared operating and initial diagnostic guidelines for some medical devices for biomedical technicians (OPMI Lumera and Drager Fabius Plus)
 
-- Wrist pulse for diabetes diagnosis (https://github.com/jhith/eng_portfolio/tree/Wrist-pulse-for-diabetes-diagnosis)
-- BCI project - Machine Learning (https://github.com/jhith/eng_portfolio/tree/BCI-project)
-- [CMOS Inverter Design](link)
-- FPGA with VHDL(Link)
-- [Biomedical DAQ Interface (LabVIEW)](link)
-- C programming(https://github.com/jhith/eng_portfolio/blob/C-programming/README.md)
+## 📁 Documentation Structure
 
-## Certificates
+- [`docs/training_log.md`](docs/training_log.md): Daily observations, site visits, and tasks.
+- [`docs/laser_visulas_yag.md`](docs/laser_visulas_yag.md): Technical notes on Carl Zeiss VISULAS YAG III.
+- [`docs/varian_linac.md`](docs/varian_linac.md): Error handling and calibration of LINAC (TrueBeam STx).
+- ...and more.
 
-See `/Certificates` for completed training and certifications.
+## 🛠 Tools/Equipment Covered
 
-## Blog Posts
+- Carl Zeiss VISULAS YAG III, Humphrey Field Analyzer (HFA3 840)
+- Zeiss OPMI Pico Microscope
+- Siemens Luminos Agile Max Fluoroscopy Unit
+- Varian LINAC (TrueBeam STx)
+- Gamma Camera (E.CAM)
+- CT Scanner, C-Arm
+- Cath Lab (Artist Zee, SENSIS)
 
-Blog drafts and writeups are in `/BlogDrafts`. Final posts will be published on my portfolio site.
+---
+
+> 🔧 This repository serves as a personal learning log and quick-reference resource.
