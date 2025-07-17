@@ -157,12 +157,6 @@ This document is a detailed compilation of technical observations, training logs
 
 ## Appendix
 
-### Training Log & Roster
-
-* June 7, 2024 – YAG & HFA3 in Kalubowila Hospital
-* June 25, 2024 – Fluoro troubleshooting at NHKDU
-* July 4, 18, 19 – LINAC servicing at Apeksha
-
 ### Learnings:
 
 * Importance of ESD safety in high-voltage diagnostics
