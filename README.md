@@ -9,4 +9,4 @@ See `/Certificates` for completed training and certifications.
 
 ## Blog Posts
 
-Blog drafts and writeups are in `/BlogDrafts`. Final posts will be published on my portfolio site.
+Blog drafts and writeups are in `/BlogDrafts`. Final posts will be published on my Medium site(https://medium.com/@jayanie)
