@@ -25,9 +25,7 @@ The published papers are also linked below.
 - [Biomedical DAQ Interface (LabVIEW)](link)
 - C programming
 
-## Certificates
 
-See `/Certificates` for completed training and certifications.
 
 ## Blog Posts
 
