@@ -11,9 +11,6 @@ This branch contains some of my C programs completed including sorting, array an
 - [Biomedical DAQ Interface (LabVIEW)](link)
 - C programming(https://github.com/jhith/eng_portfolio/blob/C-programming/README.md)
 
-## Certificates
-
-See `/Certificates` for completed training and certifications.
 
 ## Blog Posts
 
