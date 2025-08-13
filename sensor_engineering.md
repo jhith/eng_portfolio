@@ -1,7 +1,8 @@
 Real-World Sensor Engineering: Design, Simulation, and Scaling Across Semiconductor and Biomedical Industries
+
 ECE 797 - Old Dominion University
 Summer 2025
-Jayani H. Edirisooriyage  (01241237)
+Jayani H. Edirisooriyage
 
 ## Abstract
  	
