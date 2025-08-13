@@ -10,9 +10,6 @@ Welcome! This portfolio contains selected technical projects and certifications 
 - Programming (C/C++)
 - [Biomedical DAQ Interface (LabVIEW)](link)
 
-## Certificates
-
-See `/Certificates` for completed training and certifications.
 
 ## Blog Posts
 
