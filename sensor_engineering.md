@@ -165,44 +165,83 @@ This paper is an effort to summarize the importance of sub-field of sensor-based
 ## 10.	References
 
 [1]	X. Fang, C. Wu, B. Tian, L. Zhao, X. Wei, and Z. Jiang, “Pressure Sensors Based on the Third-generation Semiconductor Silicon Carbide: A Comprehensive Review,” Engineering, Jan. 2025, doi: 10.1016/j.eng.2024.12.036.
+
 [2]	X. Li, X. Huang, L. Yang, S. Jung, J. Wang, and H. Zhao, “Implantable physical sensors for in vivo organ monitoring,” Med-X, vol. 3, no. 1, p. 1, Jan. 2025, doi: 10.1007/s44258-024-00047-x.
+
 [3]	V. Abhinav et al., “Advancements in Wearable and Implantable BioMEMS Devices: Transforming Healthcare Through Technology,” Micromachines, vol. 16, no. 5, p. 522, Apr. 2025, doi: 10.3390/mi16050522.
+
 [4]	“What Is Continuous Glucose Monitoring (CGM) | Medtronic.” Accessed: Aug. 02, 2025. [Online]. Available: https://www.medtronicdiabetes.com/treatments/continuous-glucose-monitoring
+
 [5]	“PPA (Power, Performance, Area),” Semiconductor Engineering. Accessed: Jul. 31, 2025. [Online]. Available: https://semiengineering.com/knowledge_centers/eda-design/definitions/ppa/
+
 [6]	J. Choi and S. B. Kim, “Multi-Stage Process Diagnosis Networks in Semiconductor Manufacturing,” IEEE Access, vol. 12, pp. 39495–39504, 2024, doi: 10.1109/ACCESS.2024.3375367.
+
 [7]	“Digital Thermal Sensor - 009 - ID:655258 | 12th Generation Intel® CoreTM Processors.” Accessed: Aug. 02, 2025. [Online]. Available: https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/12th-generation-intel-core-processors-datasheet-volume-1-of-2/009/digital-thermal-sensor/
+
 [8]	S. Forouhi and E. Ghafar-Zadeh, “Applications of CMOS Devices for the Diagnosis and Control of Infectious Diseases,” Micromachines, vol. 11, no. 11, Art. no. 11, Nov. 2020, doi: 10.3390/mi11111003.
+
 [9]	L. Filipovic and S. Selberherr, “CMOS-Compatible Gas Sensors,” in 2019 IEEE 31st International Conference on Microelectronics (MIEL), Sep. 2019, pp. 9–16. doi: 10.1109/MIEL.2019.8889585.
+
 [10]	B. Van Dorst et al., “Integration of an optical CMOS sensor with a microfluidic channel allows a sensitive readout for biological assays in point-of-care tests,” Biosens. Bioelectron., vol. 78, pp. 126–131, Apr. 2016, doi: 10.1016/j.bios.2015.11.027.
+
 [11]	Z. Mma, W. Y, S. Y, Z. Mj, L. Y, and D. D, “A portable smart-phone device for rapid and sensitive detection of E. coli O157:H7 in Yoghurt and Egg,” Biosens. Bioelectron., vol. 99, Jan. 2018, doi: 10.1016/j.bios.2017.08.002.
+
 [12]	Y. Zheng et al., “Simultaneous Quantitative Detection of Helicobacter Pylori Based on a Rapid and Sensitive Testing Platform using Quantum Dots-Labeled Immunochromatiographic Test Strips,” Nanoscale Res. Lett., vol. 11, p. 62, Feb. 2016, doi: 10.1186/s11671-016-1254-7.
+
 [13]	H. Norian, R. M. Field, I. Kymissis, and K. L. Shepard, “An integrated CMOS quantitative-polymerase-chain-reaction lab-on-chip for point-of-care diagnostics,” Lab. Chip, vol. 14, no. 20, pp. 4076–4084, Sep. 2014, doi: 10.1039/C4LC00443D.
+
 [14]	O. Avinc and A. Khoddami, “Overview of Poly(lactic acid) (PLA) Fibre,” Fibre Chem., vol. 41, no. 6, pp. 391–401, Nov. 2009, doi: 10.1007/s10692-010-9213-z.
+
 [15]	C. Chircov and A. M. Grumezescu, “Microelectromechanical Systems (MEMS) for Biomedical Applications,” Micromachines, vol. 13, no. 2, p. 164, Jan. 2022, doi: 10.3390/mi13020164.
+
 [16]	“ASML EUV lithography systems,” ASML. Accessed: Aug. 03, 2025. [Online]. Available: https://www.asml.com/en/products/euv-lithography-systems
+
 [17]	“The COMSOL® Software Product Suite,” COMSOL. Accessed: Jul. 26, 2025. [Online]. Available: https://www.comsol.com/products
+
 [18]	S. Joy and J. K. Antony, “Design and Simulation of a Micro Hotplate Using COMSOL Multiphysics for MEMS Based Gas Sensor,” in 2015 Fifth International Conference on Advances in Computing and Communications (ICACC), Sep. 2015, pp. 465–468. doi: 10.1109/ICACC.2015.108.
+
 [19]	M. W. Al-Mufti, U. Hashim, and T. Adam, “Simulation of Nano lab on chip devices by using COMSOL Multiphysics,” 2013.
+
 [20]	H. H. Radamson et al., “State of the Art and Future Perspectives in Advanced CMOS Technology,” Nanomaterials, vol. 10, no. 8, Art. no. 8, Aug. 2020, doi: 10.3390/nano10081555.
+
 [21]	“Download LTspice | Analog Devices.” Accessed: Aug. 01, 2025. [Online]. Available: https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html
+
 [22]	“PSpice.” Accessed: Aug. 01, 2025. [Online]. Available: https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/analog-mixed-signal-simulation/pspice.html
+
 [23]	“PrimeSim HSPICE: Accurate Circuit Simulation | Synopsys.” Accessed: Aug. 01, 2025. [Online]. Available: https://www.synopsys.com/implementation-and-signoff/ams-simulation/primesim-hspice.html
+
 [24]	“Ngspice, the open source Spice circuit simulator - Intro.” Accessed: Aug. 01, 2025. [Online]. Available: https://ngspice.sourceforge.io/
+
 [25]	“TINA-TI Simulation tool | TI.com.” Accessed: Aug. 01, 2025. [Online]. Available: https://www.ti.com/tool/TINA-TI
+
 [26]	“Circuit Simulation,” Silvaco. Accessed: Aug. 01, 2025. [Online]. Available: https://silvaco.com/spice-simulation/parallel-spice-simulator/
+
 [27]	“Xyce,” Xyce. Accessed: Aug. 01, 2025. [Online]. Available: https://xyce.sandia.gov/
+
 [28]	K. Kolisnyk, V. Kolisnyk, and T. Wik, “Methods for Developing Effective Models of Biomedical Processes in MATLAB,” in 2024 IEEE 17th International Conference on Advanced Trends in Radioelectronics, Telecommunications and Computer Engineering (TCSET), Oct. 2024, pp. 499–503. doi: 10.1109/TCSET64720.2024.10755738.
+
 [29]	H. E. J. Umasha, R. D. B. Ranaweera, and J. V. Wijayakulasooriya, “A Customized Preprocessing Framework for Ayurvedic Nadi Signals,” in 2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS), Dec. 2021, pp. 221–226. doi: 10.1109/ICIIS53135.2021.9660706.
+
 [30]	J. Umasha, J. Wijayakulasooriya, and R. Ranaweera, “High-Dimensional Feature Space for Diabetes Diagnosis and Identification of Diabetic-Sensitive Features in Ayurvedic Nadi Signals,” Curr. Res. Tradit. Med., vol. 1, no. 1, Art. no. 1, Oct. 2023, doi: 10.25082/CRTM.2023.01.001.
+
 [31]	B. Ekmekci, C. E. McAnany, and C. Mura, “An Introduction to Programming for Bioscientists: A Python-Based Primer,” PLoS Comput. Biol., vol. 12, no. 6, p. e1004867, Jun. 2016, doi: 10.1371/journal.pcbi.1004867.
+
 [32]	J. S. Brumberg, S. D. Lorenz, B. V. Galbraith, and F. H. Guenther, “The Unlock Project: A Python-based framework for practical brain-computer interface communication ‘app’ development,” Conf. Proc. Annu. Int. Conf. IEEE Eng. Med. Biol. Soc. IEEE Eng. Med. Biol. Soc. Conf., vol. 2012, pp. 2505–2508, 2012, doi: 10.1109/EMBC.2012.6346473.
+
 [33]	D. Erdenechimeg, “Model-based design using Matlab/LabView in industrial automation,” in 2016 11th International Forum on Strategic Technology (IFOST), Jun. 2016, pp. 549–552. doi: 10.1109/IFOST.2016.7884177.
+
 [34]	C. J. Kalkman, “LabVIEW: A software system for data acquisition, data analysis, and instrument control,” J. Clin. Monit., vol. 11, no. 1, pp. 51–58, Jan. 1995, doi: 10.1007/BF01627421.
+
 [35]	T. Velten et al., “Packaging of bio-MEMS: strategies, technologies, and applications,” IEEE Trans. Adv. Packag., vol. 28, no. 4, pp. 533–546, Nov. 2005, doi: 10.1109/TADVP.2005.858427.
+
 [36]	“What Are the JEDEC Standards and How Do They Affect the Semiconductor Supply Chain? - Z2Data.” Accessed: Jul. 30, 2025. [Online]. Available: https://www.z2data.com/insights/what-are-the-jedec-standards
+
 [37]	“High-NA-EUV Lithography: the next EUV generation | ZEISS SMT.” Accessed: Aug. 03, 2025. [Online]. Available: https://www.zeiss.com/semiconductor-manufacturing-technology/inspiring-technology/high-na-euv-lithography.html
+
 [38]	“Chiplet | Cadence Design Solutions.” Accessed: Aug. 01, 2025. [Online]. Available: https://www.cadence.com/en_US/home/solutions/chiplets.html
+
 [39]	“Chiplets | Accelerate Your Chiplet Innovation,” Intel. Accessed: Aug. 01, 2025. [Online]. Available: https://www.intel.com/content/www/us/en/foundry/chiplets.html
+
 [40]	Neuralink, “Technology,” Neuralink. Accessed: Jul. 30, 2025. [Online]. Available: https://neuralink.com/technology/
 
 
