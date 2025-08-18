@@ -9,7 +9,6 @@ Welcome! This portfolio contains selected technical projects and certifications 
 - BCI project - Machine Learning (https://github.com/jhith/eng_portfolio/tree/BCI-project)
 - [CMOS Inverter Design](link)
 - FPGA with VHDL(Link)
-- [Biomedical DAQ Interface (LabVIEW)](link)
 - C programming(https://github.com/jhith/eng_portfolio/blob/C-programming/README.md)
 
 
