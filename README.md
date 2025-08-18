@@ -6,9 +6,6 @@ Welcome! This branch contains selected my EEG project for machine learning durin
 
 - Wrist pulse for diabetes diagnosis (MATLAB)
 - BCI project - Machine Learning (Python)
-- [CMOS Inverter Design](link)
-- FPGA with VHDL(Link)
-- [Biomedical DAQ Interface (LabVIEW)](link)
 - C programming
 
 
