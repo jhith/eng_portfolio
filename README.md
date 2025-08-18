@@ -6,9 +6,6 @@ This branch contains some of my C programs completed including sorting, array an
 
 - Wrist pulse for diabetes diagnosis (MATLAB)
 - BCI project - Machine Learning (Python)
-- [CMOS Inverter Design](link)
-- FPGA with VHDL(Link)
-- [Biomedical DAQ Interface (LabVIEW)](link)
 - C programming(https://github.com/jhith/eng_portfolio/blob/C-programming/README.md)
 
 
