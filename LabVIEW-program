@@ -1,0 +1,74 @@
+# Automating Harmonic Analysis in Biomedical Research with LabVIEW  
+
+When I worked as a **Graduate Research Assistant**, one of my key challenges was saving and analyzing **harmonic data** during a biomedical project. Our setup included:  
+
+- **Tektronix Signal Generator** – to deliver controlled voltage stimulations  
+- **Stanford Research Systems SR780 Signal Analyzer** – to capture and process signals with FFT  
+
+The catch?  
+While the SR780 could perform **FFT analysis**, it didn’t provide the harmonic amplitudes directly in a format that was easy to use for stepwise experiments. I needed a way to:  
+
+- Extract harmonic amplitudes at different stimulation voltages  
+- Record them automatically in `.csv` format  
+- Display results **in real-time** for better decision-making  
+
+That’s where **LabVIEW** came in.  
+
+---
+
+## Why Build a Custom LabVIEW VI?  
+Instead of manually exporting FFT data from the SR780 and calculating harmonic amplitudes, I designed a **LabVIEW program (VI)** to automate the process.  
+
+The flow was:  
+
+1. **Set up stimulation voltage** and increment in predefined steps.  
+2. **Acquire FFT data from the SR780** using LabVIEW’s instrument control tools.  
+3. **Extract harmonic amplitudes** from the FFT spectrum.  
+4. **Apply averaging** for noise reduction.  
+5. **Plot harmonic amplitudes in real-time** during the experiment.  
+6. **Save results in `.csv` format** for further analysis in MATLAB/Python.  
+
+This workflow not only streamlined the experiment but also allowed me to monitor harmonic behavior as stimulation changed — something that was tedious to do manually.  
+
+---
+
+## Technical Snapshot  
+- **LabVIEW Front Panel**: Real-time plots of harmonic amplitude vs. stimulation voltage  
+- **LabVIEW Block Diagram**: Instrument control loop + data processing logic  
+- **Data Handling**: Automated `.csv` logging with timestamped results  
+- **Application**: Biomedical experiments requiring frequency-domain signal analysis  
+
+---
+
+## Challenges & Solutions  
+- **Instrument Communication**: Setting up GPIB connection with the SR780 took time.  
+- **Data Extraction**: FFT data had to be carefully parsed to locate harmonic peaks.  
+- **Noise**: Implemented averaging routines in LabVIEW to stabilize measurements.  
+
+---
+
+## Impact & Applications  
+This project bridged **hardware instrumentation** with **software automation** — a skill set that’s highly valuable in biomedical R&D and semiconductor test engineering.  
+
+By creating this VI, I:  
+- Automated hours of manual data collection.  
+- Ensured higher accuracy through real-time monitoring.  
+- Gained hands-on experience in **signal processing, instrumentation, and LabVIEW programming**.  
+
+Such workflows are essential not only for biomedical applications but also for **semiconductor device testing, sensor development, and lab automation**.  
+
+---
+
+## Key Takeaways  
+- LabVIEW can **transform benchtop instruments** into automated research platforms.  
+- Extracting harmonics from FFT data enables deeper analysis of system behavior.  
+- Building custom tools is a **career-relevant skill** — showcasing the ability to solve real-world lab problems.  
+
+---
+
+📌 **Project Repo:** [GitHub link here once uploaded]  
+📌 **Let’s Connect:** If you’re working on biomedical signal processing, instrumentation, or test automation — I’d love to connect and exchange ideas!  
+
+---
+
+*Tags: LabVIEW, Biomedical Engineering, Signal Processing, Research Tools, Automation*  
