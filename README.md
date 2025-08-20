@@ -1,14 +1,7 @@
 # eng_portfolio
-Collection of technical projects, blog posts and certificates completed
+This portfolio contains selected technical projects I completed during graduate studies. 
 
-Welcome! This portfolio contains selected technical projects and certifications completed during graduate studies. 
-
-## Projects
-
-- [CMOS Inverter Design](link)
-- FPGA with VHDL(Link)
-- Programming (C/C++)
-- [Biomedical DAQ Interface (LabVIEW)](link)
+This page demonstrates the LabVIEW vi I programmed for controlling the signal generator to stimulate a sample of interest and acquire the responses, from the sample , display real time and save csv data for post processing. 
 
 
 ## Blog Posts
