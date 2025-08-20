@@ -8,7 +8,7 @@ Welcome! This portfolio contains selected technical projects and certifications 
 - Wrist pulse for diabetes diagnosis (https://github.com/jhith/eng_portfolio/tree/Wrist-pulse-for-diabetes-diagnosis)
 - BCI project - Machine Learning (https://github.com/jhith/eng_portfolio/tree/BCI-project)
 - [CMOS Inverter Design](link)
-- LabVIEW program - Harmonic recorder ()
+- LabVIEW program - Harmonic recorder (https://github.com/jhith/eng_portfolio/blob/LabVIEW-harmonic-recorder/)
 - C programming(https://github.com/jhith/eng_portfolio/blob/C-programming/README.md)
 
 
