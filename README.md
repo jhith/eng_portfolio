@@ -7,4 +7,4 @@ This page demonstrates the LabVIEW vi I programmed for controlling the Tektronix
 
 ## Blog Post
 
-Blog post on this project can be found on my Medium post: 
+Blog post on this project can be found on my Medium post: https://medium.com/@jayanie/automating-harmonic-analysis-in-biomedical-research-with-labview-1f587116a72b
